@@ -11,4 +11,5 @@
 * Also this is [TransferMarket](https://www.transfermarkt.com/).
 
 ## Feature
-*
+* Define two major terms that 'Strength' and 'Power'.
+* 
