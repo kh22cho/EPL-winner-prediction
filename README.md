@@ -11,5 +11,8 @@
 * Also this is [TransferMarket](https://www.transfermarkt.com/).
 
 ## Feature
-* Define two major terms that 'Strength' and 'Power'.
+* Define two major terms that __Strength__ and __Power__.
+* Strength is the value defined by how strong the home team is at home and the away team.
+  * Home Attack Strength = Home 
+* Power is
 * 
